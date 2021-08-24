@@ -1,0 +1,3 @@
+R.G. Kar Medical College,rgkar,rgkar123,9,20,30
+Calcutta Medical College,cmc,cmc123,02,29,40
+North Bengal Medical College,nbmc,nbmc123,30,40,89
